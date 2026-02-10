@@ -547,8 +547,8 @@ SOFTWARE.
 
 ## 📞 Контакты и поддержка
 
-- **GitHub Issues**: [Отчеты о проблемах](https://github.com/username/DVA-Audio-Nodes/issues)
-- **Discussions**: [Обсуждения](https://github.com/username/DVA-Audio-Nodes/discussions)
+- **GitHub Issues**: [Отчеты о проблемах](https://github.com/SLVGITHUB/DVA_Audio_Nodes_Meta/issues)
+- **Discussions**: [Обсуждения]([https://github.com/username/DVA-Audio-Nodes](https://github.com/SLVGITHUB/DVA_Audio_Nodes_Meta/issues/discussions)
 
 ---
 
