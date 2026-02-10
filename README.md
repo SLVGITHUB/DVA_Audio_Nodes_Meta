@@ -10,8 +10,7 @@ Audio metadata
 
 **Профессиональный набор нод для анализа и обработки аудио в ComfyUI**
 
-[![GitHub stars](https://img.shields.io/github/stars/username/DVA-Audio-Nodes?style=social)](https://github.com/username/
-DVA_Audio_Nodes_Meta)
+[![GitHub stars](https://img.shields.io/github/stars/username/DVA-Audio-Nodes?style=social)](https://github.com/username/DVA_Audio_Nodes_Meta)
 [![Downloads](https://img.shields.io/github/downloads/username/DVA-Audio-Nodes/total)](https://github.com/username/DVA_Audio_Nodes_Meta/releases)
 [![Issues](https://img.shields.io/github/issues/username/DVA-Audio-Nodes)](https://github.com/username/DVA_Audio_Nodes_Meta/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/username/DVA-Audio-Nodes)](https://github.com/username/DVA_Audio_Nodes_Meta/commits/main)
