@@ -1,0 +1,22 @@
+{
+  "workflow": "batch_audio_analysis",
+  "nodes": [
+    {
+      "type": "DVA_Audio_Batch_Processor",
+      "inputs": {
+        "directory_path": "C:/Music/",
+        "file_pattern": "*.mp3,*.wav",
+        "operation": "both",
+        "recursive": true
+      },
+      "outputs": ["results", "summary", "file_list"]
+    },
+    {
+      "type": "Save Text File",
+      "inputs": {
+        "text": "{summary}",
+        "filename": "audio_analysis_report.txt"
+      }
+    }
+  ]
+}
