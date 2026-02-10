@@ -1,0 +1,23 @@
+{
+  "workflow": "basic_audio_analysis",
+  "nodes": [
+    {
+      "type": "DVA_Load_Audio_File",
+      "outputs": ["audio", "file_path"]
+    },
+    {
+      "type": "DVA_Audio_Duration_Calculator",
+      "inputs": {
+        "audio": "{audio}",
+        "calculation_mode": "auto"
+      },
+      "outputs": ["duration_seconds", "duration_formatted", "status", "metadata"]
+    },
+    {
+      "type": "Preview Text",
+      "inputs": {
+        "text": "{duration_formatted}"
+      }
+    }
+  ]
+}
